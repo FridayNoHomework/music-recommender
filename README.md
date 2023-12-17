@@ -44,7 +44,7 @@ The raw data for this project is substantial in size, making it impractical to u
 
 ### Demo Execution:
 
-- To run the demo, execute `streamlit run myapp.py` in the `code` folder.
+- To run the demo, execute `streamlit run newapp.py` in the `code` folder.
 
 ### Results:
 
